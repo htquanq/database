@@ -1,6 +1,6 @@
 {
   "ref": "0000QEFb",
-  "skipErrorTasks": [53, 101, 206, 243, 264],
+  "skipErrorTasks": [53, 101, 206, 243, 264,4002],
   "ver": "v1.0.0",
   "noti": ""
 }
