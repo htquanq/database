@@ -2,45 +2,35 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "MCBOTjfumo",
+  "server": {
+    "pro": [
+      {
+        "url": "https://blum-pro.vercel.app/api/",
+        "status": 1
+      }
+    ],
+    "free": [
+      {
+        "url": "https://blum-free-1.vercel.app/api/",
+        "status": 1
+      }
+    ]
+  },
   "payloadServer": [
     {
-      "id": "vqzuejeiiemf1",
+      "id": "iwsluybtbdix12",
       "status": 1
     },
     {
-      "id": "weajonqbsyvr2",
+      "id": "xnwqkifdwzud13",
       "status": 1
     },
     {
-      "id": "oraiuhooppds3",
+      "id": "ytlbpmzsiqjv14",
       "status": 1
     },
     {
-      "id": "mwmyjxhwhvkd4",
-      "status": 1
-    },
-    {
-      "id": "agujrczbhepn5",
-      "status": 1
-    },
-    {
-      "id": "iqwuumqkuczb6",
-      "status": 1
-    },
-    {
-      "id": "zseniuazehyf7",
-      "status": 0
-    },
-    {
-      "id": "bmyrrpbvnlaa8",
-      "status": 1
-    },
-    {
-      "id": "hpwsqafwqdqr9",
-      "status": 1
-    },
-    {
-      "id": "enmobnpmpxkw10",
+      "id": "phusuuarieff15",
       "status": 1
     }
   ],
@@ -116,6 +106,14 @@
     {
       "id": "dc627a62-f747-4cbb-981f-62cf82a85458",
       "answer": "BLUMTASTIC"
+    },
+    {
+      "id": "71ad89ea-f11f-4825-af9c-408fba7dfd8e",
+      "answer": "Blumforce"
+    },
+    {
+      "id": "a669a160-45fd-4935-9eda-58079e19aad5",
+      "answer": "ULTRABLUM"
     }
   ],
   "tribeSkip": [
